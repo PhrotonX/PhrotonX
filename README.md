@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Most used languages](https://github.com/PhrotonX/metrics/blob/master/github-metrics.svg)
+
