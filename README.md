@@ -18,8 +18,8 @@ Charles Martin
 Currently working on:
 | **Project Name** | **Description** |
 | - | - |
-| A client's website (???) | Expected to end on January-February 2026 |
-| A client's mobile app+website (school project) | Expected to end on May 2026 |
+| A client's website (???) | Expected to end on January-February 2026. Redacted for privacy |
+| A client's mobile app+website (school project) | Expected to end on May 2026. Redacted for privacy |
 | ??? | Redacted for privacy |
 
 ![Most used languages](https://github.com/PhrotonX/metrics/blob/master/github-metrics.svg)
