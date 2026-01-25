@@ -22,5 +22,10 @@ Currently working on:
 | A client's mobile app+website (school project) | Expected to end on May 2026. Redacted for privacy | ASP.NET & .NET MAUI |
 | ??? | Redacted for privacy | ??? |
 
+Currently Learning:
+- Redacted
+- Redacted
+- Redacted
+
 ![Most used languages](https://github.com/PhrotonX/metrics/blob/master/github-metrics.svg)
 
