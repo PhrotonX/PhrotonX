@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Charles Martin
+# Charles Martin
 
 Currently working on:
 | **Project Name** | **Description** | **Tech Stack** |
