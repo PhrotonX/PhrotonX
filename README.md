@@ -15,15 +15,18 @@ Here are some ideas to get you started:
 
 # Charles Martin
 
-Currently working on:
+I'm Currently working on:
 | **Project Name** | **Description** | **Tech Stack** |
 | - | - | - |
-| ??? | Redacted for privacy | ??? |
+| ??? | Redacted for client's privacy | Laravel |
+| ??? | Redacted for privacy | ASP.NET Core |
 
-Currently Learning:
+I'm Currently Learning:
 - Redacted for privacy
 - Redacted for privacy
 - Redacted for privacy
+
+I'm looking for help with Ethereum.
 
 ![Most used languages](https://github.com/PhrotonX/metrics/blob/master/github-metrics.svg)
 
