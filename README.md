@@ -26,7 +26,7 @@ I'm Currently Learning:
 - Redacted for privacy
 - Redacted for privacy
 
-I'm looking for help with Ethereum.
+I'm looking for help with Ethereum Layer 2
 
 ![Most used languages](https://github.com/PhrotonX/metrics/blob/master/github-metrics.svg)
 
